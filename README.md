@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Currently a student studying cybersecurity
+
+
+
 <!--
 **izhaarkhan786/izhaarkhan786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

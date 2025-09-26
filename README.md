@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Currently a student studying cybersecurity
-
+Planning on placement year work for experience
 
 
 <!--
